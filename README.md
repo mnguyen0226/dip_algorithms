@@ -11,6 +11,7 @@ You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
 - (6) Adaptive Median Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/report
 - (7) Frequency Domain Filter for Motion Deblurring: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20seven/report
 - (8) Canny Edge Detection: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20eight/report
+- (9) Gaussian Pyramid & Laplacian Pyramid Filter: 
 ## I/ Technique One:
 - Image Augmentation: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageTranslation.py
 - Image Shearing: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageShear.py
@@ -95,11 +96,14 @@ python deblur.py
 ```
 python cannyEdgeDetection.py
 ```
-## IV/ Technique Four:
-
+## IV/ Technique Nine:
+- Gaussian and Laplacian Pyramid Filter: 
 ### Results:
+- Can be found in: 
 ### How to run:
-
+```
+python gaussLaplacePyramid.py
+```
 ## IV/ Technique Four:
 
 ### Results:
