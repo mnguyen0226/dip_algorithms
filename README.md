@@ -1,4 +1,4 @@
-# OpenCV Digital Image Processing Techniques
+# OpenCV Digital Image Processing Techniques - ECE 4580
 This repository contains various digital image processing techniques that I learned in ECE 4580. The code is implemented in Python >= 3 and OpenCV. The techniques will be used in Image Augmentation ML Project
 ## Honor Code @VT Warning:
 You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
