@@ -61,7 +61,7 @@ python butterworth-lpf-freq.py
 python gauss-lpf-norm-freq.py
 ```
 
-## IV/ Technique Six:
+## VI/ Technique Six:
 - Adaptive Median Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/src
 
 ### Results:
@@ -70,11 +70,14 @@ python gauss-lpf-norm-freq.py
 ```
 python amf.py
 ```
-## IV/ Technique Four:
-
+## VII/ Technique Seven:
+- Frequency Domain Filter for Motion Deblurring: 
 ### Results:
+- Can be found in: 
 ### How to run:
-
+```
+python deblur.py
+```
 ## IV/ Technique Four:
 
 ### Results:
@@ -89,3 +92,4 @@ python amf.py
 - (4) Spatial Filter Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/report
 - (5) Filter in Frequency Domain Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/report
 - (6) Adaptive Median Filter Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/report
+- (7) Frequency Domain Filter for Motion Deblurring Report: 
