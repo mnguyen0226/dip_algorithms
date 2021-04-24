@@ -13,6 +13,7 @@ You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
 - (8) Canny Edge Detection: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20eight/report
 - (9) Gaussian Pyramid & Laplacian Pyramid Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20nine/report
 - (10) Gaussian & Laplacian Pyramid Blend: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20ten/report
+- (11) Ideal & Gaussian Bandpass Filters: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20eleven/report
 
 ## I/ Technique One:
 - Image Augmentation: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageTranslation.py
@@ -115,10 +116,10 @@ python gaussLaplacePyramid.py
 python gaussLaplacePyramidBlend.py
 ```
 ## XI/ Technique Eleven:
-- Ideal Bandpass Filter:
-- Gaussian Bandpass Filter:
+- Ideal Bandpass Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20eleven/src/Ideal%20Bandpass%20Filter
+- Gaussian Bandpass Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20eleven/src/Gaussian%20Bandpass%20Filter
 ### Results:
-- Can be found in: 
+- Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20eleven/results
 ### How to run:
 ```
 python idealBandpassFilter.py
