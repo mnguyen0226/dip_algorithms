@@ -104,11 +104,14 @@ python cannyEdgeDetection.py
 ```
 python gaussLaplacePyramid.py
 ```
-## IV/ Technique Four:
-
+## X/ Technique Ten:
+- Gaussian & Laplacian Pyramid Blend: 
 ### Results:
+- Can be found in:
 ### How to run:
-
+```
+python gaussLaplacePyramidBlend.py
+```
 ## IV/ Technique Four:
 
 ### Results:
