@@ -10,7 +10,7 @@ You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
 - (5) Filter in Frequency Domain: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/report
 - (6) Adaptive Median Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/report
 - (7) Frequency Domain Filter for Motion Deblurring: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20seven/report
-- (8) Canny Edge Detection: 
+- (8) Canny Edge Detection: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20eight/report
 ## I/ Technique One:
 - Image Augmentation: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageTranslation.py
 - Image Shearing: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageShear.py
@@ -88,9 +88,9 @@ python amf.py
 python deblur.py
 ```
 ## VIII/ Technique Eight:
-- Canny Edge Detection: 
+- Canny Edge Detection: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20eight/src
 ### Results:
-- Can be found in: 
+- Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20eight/results
 ### How to run:
 ```
 python cannyEdgeDetection.py
