@@ -2,7 +2,7 @@
 This repository contains various digital image processing techniques that I learned in ECE 4580. The code is implemented in Python >= 3 and OpenCV. The techniques will be used in Image Augmentation ML Project
 ## Honor Code @VT Warning:
 You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
-## Technique One:
+## I/ Technique One:
 - Image Augmentation: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageTranslation.py
 - Image Shearing: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageShear.py
 
@@ -13,7 +13,7 @@ Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/
 python imageShear.py
 python imageTranslation.py
 ```
-## Technique Two:
+## II/ Technique Two:
 - Intensity Transformation: "Negative, Gamma-mode, Log-mode, Normalization": https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20two/src
 
 ### Result:
@@ -22,7 +22,7 @@ Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/
 ```
 python intensityTransformation.py
 ```
-## Technique Three:
+## III/ Technique Three:
 
 ### Result:
 ### How to run:
