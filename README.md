@@ -61,11 +61,15 @@ python butterworth-lpf-freq.py
 python gauss-lpf-norm-freq.py
 ```
 
-## IV/ Technique Four:
+## IV/ Technique Six:
+- Adaptive Median Filter: 
 
 ### Results:
+- Can be found in: 
 ### How to run:
-
+```
+python amf.py
+```
 ## IV/ Technique Four:
 
 ### Results:
