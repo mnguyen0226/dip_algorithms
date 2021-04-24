@@ -31,14 +31,14 @@ Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/
 python localHistogramEqual.py
 ```
 ## IV/ Technique Four:
-- Lowpass Filter Gaussian Blur: 
-- Lowpass Filter Gaussian Blur with Threshold:
-- Lowpass Filter Gaussian Blur & Normalization:
-- Unsharp Masking:
-- High Boost Filtering:
+- Lowpass Filter Gaussian Blur: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/low-pass-filter-1a
+- Lowpass Filter Gaussian Blur with Threshold: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/low-pass-filter-1b
+- Lowpass Filter Gaussian Blur & Normalization: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/low-pass-filter-1c
+- Unsharp Masking: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/unsharp-masking
+- High Boost Filtering: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/high-boost-filter
 
 ### Result:
-Can be found in: 
+Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/results
 ### How to run:
 ```
 python lpf-gaussian-1a.py
@@ -46,7 +46,6 @@ python lpf-gaussian-1b.py
 python lpf-gaussian-1c.py
 python unsharp-masking.py
 python high-boost-filter.py
-
 ```
 ## IV/ Technique Four:
 
