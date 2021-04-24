@@ -71,9 +71,9 @@ python gauss-lpf-norm-freq.py
 python amf.py
 ```
 ## VII/ Technique Seven:
-- Frequency Domain Filter for Motion Deblurring: 
+- Frequency Domain Filter for Motion Deblurring - Pseudo Filter vs Wiener Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20seven/src
 ### Results:
-- Can be found in: 
+- Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20seven/results
 ### How to run:
 ```
 python deblur.py
@@ -92,4 +92,4 @@ python deblur.py
 - (4) Spatial Filter Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/report
 - (5) Filter in Frequency Domain Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/report
 - (6) Adaptive Median Filter Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/report
-- (7) Frequency Domain Filter for Motion Deblurring Report: 
+- (7) Frequency Domain Filter for Motion Deblurring Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20seven/report
