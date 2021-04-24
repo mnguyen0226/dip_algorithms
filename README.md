@@ -23,11 +23,14 @@ Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/
 python intensityTransformation.py
 ```
 ## III/ Technique Three:
-
+- Local Histogram Equivalent: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20three/src
 ### Result:
+Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20three/results
 ### How to run:
-
-## Technique Four:
+```
+python localHistogramEqual.py
+```
+## IV/ Technique Four:
 
 ### Result:
 ### How to run:
@@ -35,3 +38,4 @@ python intensityTransformation.py
 ### Report (password will be given to related individuals only):
 - (1) Image Augmentation and Shearing Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20one/report
 - (2) Intensity Transformation: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20two/report
+- (3) Local Histogram Equivalent: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20three/report
