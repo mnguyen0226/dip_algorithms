@@ -13,22 +13,15 @@ Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/
 python imageShear.py
 python imageTranslation.py
 ```
-### Report (password will be given to related individuals only):
 ## Technique Two:
 
 ### Result:
 ### How to run:
 
-### Report (password will be given to related individuals only):
-
-
 ## Technique Three:
 
 ### Result:
 ### How to run:
-
-### Report (password will be given to related individuals only):
-
 
 ## Technique Four:
 
