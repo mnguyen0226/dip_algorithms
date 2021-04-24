@@ -3,13 +3,13 @@ This repository contains various digital image processing techniques that I lear
 ## Honor Code @VT Warning:
 You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
 ## Report (password will be given to related individuals only):
-- (1) Image Augmentation and Shearing Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20one/report
+- (1) Image Augmentation and Shearing: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20one/report
 - (2) Intensity Transformation: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20two/report
 - (3) Local Histogram Equivalent: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20three/report
-- (4) Spatial Filter Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/report
-- (5) Filter in Frequency Domain Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/report
-- (6) Adaptive Median Filter Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/report
-- (7) Frequency Domain Filter for Motion Deblurring Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20seven/report
+- (4) Spatial Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/report
+- (5) Filter in Frequency Domain: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/report
+- (6) Adaptive Median Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/report
+- (7) Frequency Domain Filter for Motion Deblurring: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20seven/report
 ## I/ Technique One:
 - Image Augmentation: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageTranslation.py
 - Image Shearing: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageShear.py
