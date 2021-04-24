@@ -6,7 +6,7 @@ You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
 - Image Augmentation: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageTranslation.py
 - Image Shearing: https://github.com/mnguyen0226/opencv-digital-image-processing/blob/main/technique%20one/src/imageShear.py
 
-### Result:
+### Results:
 - Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20one/results
 ### How to run: 
 ```
@@ -16,7 +16,7 @@ python imageTranslation.py
 ## II/ Technique Two:
 - Intensity Transformation: "Negative, Gamma-mode, Log-mode, Normalization": https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20two/src
 
-### Result:
+### Results:
 - Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20two/results
 ### How to run:
 ```
@@ -24,7 +24,7 @@ python intensityTransformation.py
 ```
 ## III/ Technique Three:
 - Local Histogram Equivalent: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20three/src
-### Result:
+### Results:
 - Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20three/results
 ### How to run:
 ```
@@ -37,7 +37,7 @@ python localHistogramEqual.py
 - Unsharp Masking: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/unsharp-masking
 - High Boost Filtering: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/high-boost-filter
 
-### Result:
+### Results:
 - Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/results
 ### How to run:
 ```
@@ -52,7 +52,7 @@ python high-boost-filter.py
 - Butterworth Lowpass Filter in Frequency Domain: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/src/bufferworth-lpf-in-freq-domain
 - Gaussian Lowpass Filter & Normalization in Frequency Domain: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/src/gaussian-lpf-%26-normalization
 
-### Result:
+### Results:
 - Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/results
 ### How to run:
 ```
@@ -63,17 +63,17 @@ python gauss-lpf-norm-freq.py
 
 ## IV/ Technique Four:
 
-### Result:
+### Results:
 ### How to run:
 
 ## IV/ Technique Four:
 
-### Result:
+### Results:
 ### How to run:
 
 ## IV/ Technique Four:
 
-### Result:
+### Results:
 ### How to run:
 
 
