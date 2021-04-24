@@ -114,10 +114,16 @@ python gaussLaplacePyramid.py
 ```
 python gaussLaplacePyramidBlend.py
 ```
-## IV/ Technique Four:
-
+## XI/ Technique Eleven:
+- Ideal Bandpass Filter:
+- Gaussian Bandpass Filter:
 ### Results:
+- Can be found in: 
 ### How to run:
+```
+python idealBandpassFilter.py
+python gaussianBandpassFilter.py
+```
 
 
 
