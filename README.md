@@ -48,12 +48,12 @@ python unsharp-masking.py
 python high-boost-filter.py
 ```
 ## V/ Technique Five:
-- Gaussian Lowpass Filter in Frequency Domain:
-- Butterworth Lowpass Filter in Frequency Domain:
-- Gaussian Lowpass Filter & Normalization in Frequency Domain:
+- Gaussian Lowpass Filter in Frequency Domain: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/src/gaussian-lpf-in-freq-domain
+- Butterworth Lowpass Filter in Frequency Domain: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/src/bufferworth-lpf-in-freq-domain
+- Gaussian Lowpass Filter & Normalization in Frequency Domain: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/src/gaussian-lpf-%26-normalization
 
 ### Result:
-- Can be found in: 
+- Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/results
 ### How to run:
 ```
 python gauss-lpf-freq.py
