@@ -31,9 +31,45 @@ Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/
 python localHistogramEqual.py
 ```
 ## IV/ Technique Four:
+- Lowpass Filter Gaussian Blur: 
+- Lowpass Filter Gaussian Blur with Threshold:
+- Lowpass Filter Gaussian Blur & Normalization:
+- Unsharp Masking:
+- High Boost Filtering:
+
+### Result:
+Can be found in: 
+### How to run:
+```
+python lpf-gaussian-1a.py
+python lpf-gaussian-1b.py
+python lpf-gaussian-1c.py
+python unsharp-masking.py
+python high-boost-filter.py
+
+```
+## IV/ Technique Four:
 
 ### Result:
 ### How to run:
+
+
+## IV/ Technique Four:
+
+### Result:
+### How to run:
+
+## IV/ Technique Four:
+
+### Result:
+### How to run:
+
+## IV/ Technique Four:
+
+### Result:
+### How to run:
+
+
 
 ### Report (password will be given to related individuals only):
 - (1) Image Augmentation and Shearing Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20one/report
