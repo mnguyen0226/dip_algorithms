@@ -86,3 +86,6 @@ python amf.py
 - (1) Image Augmentation and Shearing Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20one/report
 - (2) Intensity Transformation: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20two/report
 - (3) Local Histogram Equivalent: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20three/report
+- (4) Spatial Filter Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/report
+- (5) Filter in Frequency Domain Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20five/report
+- (6) Adaptive Median Filter Report: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/report
