@@ -14,10 +14,14 @@ python imageShear.py
 python imageTranslation.py
 ```
 ## Technique Two:
+- Intensity Transformation: "Negative, Gamma-mode, Log-mode, Normalization": https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20two/src
 
 ### Result:
+Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20two/results
 ### How to run:
-
+```
+python intensityTransformation.py
+```
 ## Technique Three:
 
 ### Result:
