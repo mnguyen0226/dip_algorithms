@@ -62,10 +62,10 @@ python gauss-lpf-norm-freq.py
 ```
 
 ## IV/ Technique Six:
-- Adaptive Median Filter: 
+- Adaptive Median Filter: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/src
 
 ### Results:
-- Can be found in: 
+- Can be found in: https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20six/results
 ### How to run:
 ```
 python amf.py
