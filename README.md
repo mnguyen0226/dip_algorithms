@@ -85,8 +85,6 @@ python src/method_5/src/gaussian_lpf_norm_freq/gaussian_lpf_norm_freq.py
 
 ## 6. Adaptive Median Filter
 <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/results/amf_vs_built_in_filter.PNG" height="200">
-<img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/results/gauss_noised_corrupted.PNG" height="200">
-
 
 - [Adaptive Median Filter Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/src/amf.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_6/results)
