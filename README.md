@@ -10,12 +10,7 @@ python src/method_1/src/image_shear.py
 python src/method_1/src/image_translation.py
 ```
 
-![](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG)
-<img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG" height="200">
-
-<!-- ![](./pic/pic1s.png =250x) -->
-
-
+<img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG" height="80">
 
 
 ### 2. Intensity Transformation
