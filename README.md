@@ -11,7 +11,7 @@ python src/method_1/src/image_translation.py
 ```
 ![](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/girl.tif=250x)
 
-![](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG){height=250}
+![](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG){height="250px"}
 <!-- ![](./pic/pic1s.png =250x) -->
 
 
