@@ -30,7 +30,7 @@ python localHistogramEqual.py
 - [Lowpass Filter Gaussian Blur & Normalization](https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/low-pass-filter-1c)
 - [Unsharp Masking](https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/unsharp-masking)
 - [High Boost Filtering](https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/src/high-boost-filter)
-- Can be found in [Results](https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/results)
+- [Results](https://github.com/mnguyen0226/opencv-digital-image-processing/tree/main/technique%20four/results)
 ```python
 python lpf-gaussian-1a.py
 python lpf-gaussian-1b.py
