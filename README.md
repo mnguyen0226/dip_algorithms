@@ -9,6 +9,7 @@
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_shear_2.PNG" height="100" />
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_shear_3.PNG" height="100" />
 </p>
+
 - [Image Augmentation Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/src/image_translation.py)
 - [Image Shearing Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/src/image_shear.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_1/results)
@@ -24,6 +25,7 @@ python src/method_1/src/image_translation.py
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_2/results/spillway_negative_mode.PNG" height="100">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_2/results/spillway_normalized_unormalized_gamma_mode.PNG" height="100">
 </p>
+
 - [Intensity Transformation: Negative, Gamma-mode, Log-mode, Normalization Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_2/src/intensity_transformation.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_2/results)
 ```sh
@@ -34,6 +36,7 @@ python src/method_2/src/intensity_transformation.py
 <p float="left">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_3/results/symbol_review.PNG" height="200">
 </p>
+
 - [Local Histogram Equivalent Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_3/src/local_histogram_equal.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_3/results)
 ```sh
@@ -48,6 +51,7 @@ python src/method_3/src/local_histogram_equal.py
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_4/results/high_boost_filter.PNG" height="100">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_4/results/unsharp_masking.PNG" height="100">
 </p>
+
 - [Lowpass Filter Gaussian Blur Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_4/src/low_pass_filter_a/lpf_gaussian.py)
 - [Lowpass Filter Gaussian Blur with Threshold Code](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_4/src/low_pass_filter_b/lpf_gaussian.py)
 - [Lowpass Filter Gaussian Blur & Normalization Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_4/src/low_pass_filter_c/lpf_gaussian.py)
@@ -68,6 +72,7 @@ python src/method_4/src/high_boost_filter/high_boost_filter.py
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_5/results/butterworth_lpf_freq.PNG" height="100">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_5/results/gaussian_lpf_norm_freq.PNG" height="200">
 </p>
+
 - [Gaussian Lowpass Filter in Frequency Domain Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_5/src/gaussian_lpf_freq/gaussian_lpf_freq.py)
 - [Butterworth Lowpass Filter in Frequency Domain Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_5/src/bufferworth_lpf_freq/bufferworth_lpf_freq.py)
 - [Gaussian Lowpass Filter & Normalization in Frequency Domain Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_5/src/gaussian_lpf_norm_freq/gaussian_lpf_norm_freq.py)
@@ -83,6 +88,7 @@ python src/method_5/src/gaussian_lpf_norm_freq/gaussian_lpf_norm_freq.py
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/results/amf_vs_built_in_filter.PNG" height="100">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/results/gauss_noised_corrupted.PNG" height="100">
 </p>
+
 - [Adaptive Median Filter Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/src/amf.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_6/results)
 ```sh
@@ -93,6 +99,7 @@ python src/method_6/src/amf.py
 <p float="left">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_7/results/pseudo_vs_wiener_filter.PNG" height="200">
 </p>
+
 - [Frequency Domain Filter for Motion Deblurring - Pseudo Filter vs Wiener Filter Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_7/src/deblur.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_7/results)
 ```sh
@@ -105,6 +112,7 @@ python src/method_7/src/deblur.py
 <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_8/results/gauss_blur_different_levels.PNG" height="200">
 <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_8/results/gradient_mag_and_angle.PNG" height="200">
 <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_8/results/non_max_suppression.PNG" height="200">
+
 - [Canny Edge Detection Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_8/src/canny_edge_detection.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_8/results)
 ```sh
@@ -116,6 +124,7 @@ python src/method_8/src/canny_edge_detection.py
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_9/results/four_level_gaussian_pyramid.PNG" height="200">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_9/results/four_level_laplacian_pyramid.PNG" height="200">
 </p>
+
 - [Gaussian and Laplacian Pyramid Filter Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_9/src/gauss_laplace_pyramid.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_9/results)
 ```sh
@@ -126,6 +135,7 @@ python src/method_9/src/gauss_laplace_pyramid.py
 <p float="left">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_10/results/gaussian_laplacian_pyramid_blend.PNG" height="200">
 </p>
+
 - [Gaussian & Laplacian Pyramid Blend Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_10/src/gauss_laplace_pyramid_blend.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_10/results)
 ```sh
@@ -137,6 +147,7 @@ python src/method_10/src/gauss_laplace_pyramid_blend.py
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_11/results/gaussian_bandpass_filter.PNG" height="300">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_11/results/ideal_bandpass_filter.PNG" height="300">
 </p>
+
 - [Ideal Bandpass Filter Code](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_11/src/ideal_bandpass_filter)
 - [Gaussian Bandpass Filter Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_11/src/gaussian_bandpass_filter/gaussian_bandpass_filter.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_11/results)
@@ -144,6 +155,3 @@ python src/method_10/src/gauss_laplace_pyramid_blend.py
 python src/method_11/src/gaussian_bandpass_filter/gaussian_bandpass_filter.py
 python src/method_11/src/ideal_bandpass_filter/ideal_bandpass_filter.py
 ```
-
-
-
