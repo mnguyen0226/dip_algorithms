@@ -1,4 +1,4 @@
-# Digital Image Processing Techniques
+# Digital Image Processing Algorithms
 **Note:** This repository contains various digital image processing techniques implemented in Python3 & OpenCV.
 
 ## 1. Image Augmentation and Shearing
