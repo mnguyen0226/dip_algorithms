@@ -9,6 +9,13 @@
 python src/method_1/src/image_shear.py
 python src/method_1/src/image_translation.py
 ```
+![](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/girl.tif =250x)
+
+![](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG =250x)
+<!-- ![](./pic/pic1s.png =250x) -->
+
+
+
 
 ### 2. Intensity Transformation
 - [Intensity Transformation: Negative, Gamma-mode, Log-mode, Normalization Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_2/src/intensity_transformation.py)
