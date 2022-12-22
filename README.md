@@ -84,10 +84,9 @@ python src/method_5/src/gaussian_lpf_norm_freq/gaussian_lpf_norm_freq.py
 ```
 
 ## 6. Adaptive Median Filter
-<p float="left">
-    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/results/amf_vs_built_in_filter.PNG" height="100">
-    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/results/gauss_noised_corrupted.PNG" height="100">
-</p>
+<img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/results/amf_vs_built_in_filter.PNG" height="200">
+<img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/results/gauss_noised_corrupted.PNG" height="200">
+
 
 - [Adaptive Median Filter Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_6/src/amf.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_6/results)
@@ -96,9 +95,7 @@ python src/method_6/src/amf.py
 ```
 
 ## 7. Frequency Domain Filter for Motion Deblurring
-<p float="left">
-    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_7/results/pseudo_vs_wiener_filter.PNG" height="200">
-</p>
+<img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_7/results/pseudo_vs_wiener_filter.PNG" height="400">
 
 - [Frequency Domain Filter for Motion Deblurring - Pseudo Filter vs Wiener Filter Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_7/src/deblur.py)
 - [Results](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_7/results)
@@ -144,8 +141,8 @@ python src/method_10/src/gauss_laplace_pyramid_blend.py
 
 ## 11. Ideal & Gaussian Bandpass Filters
 <p float="left">
-    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_11/results/gaussian_bandpass_filter.PNG" height="300">
-    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_11/results/ideal_bandpass_filter.PNG" height="300">
+    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_11/results/gaussian_bandpass_filter.PNG" height="400">
+    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_11/results/ideal_bandpass_filter.PNG" height="400">
 </p>
 
 - [Ideal Bandpass Filter Code](https://github.com/mnguyen0226/dip_algorithms/tree/main/src/method_11/src/ideal_bandpass_filter)
