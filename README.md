@@ -11,10 +11,16 @@ python src/method_1/src/image_translation.py
 ```
 
 <p float="left">
-    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG" height="80" />
-    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG" height="80" />
-    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG" height="80" />
+    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG" height="100" />
+    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_2.PNG" height="100" />
+    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_shear_1.PNG" height="100" />
+    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_shear_2.PNG" height="100" />
+    <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_shear_3.PNG" height="100" />
+
 </p>
+
+<!-- <img src="" width="80"> -->
+
 
 ### 2. Intensity Transformation
 - [Intensity Transformation: Negative, Gamma-mode, Log-mode, Normalization Code](https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_2/src/intensity_transformation.py)
