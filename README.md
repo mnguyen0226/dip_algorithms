@@ -1,7 +1,7 @@
 # Digital Image Processing Algorithms
 **Note:** This repository contains various digital image processing techniques implemented in Python3 & OpenCV.
 
-## 1. Image Augmentation and Shearing
+## 1. Image Augmentation & Shearing
 <p float="left">
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_1.PNG" height="100" />
     <img src="https://github.com/mnguyen0226/dip_algorithms/blob/main/src/method_1/results/image_aug_2.PNG" height="100" />
